@@ -5,7 +5,6 @@
 
 <br/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
 [![Profile Views](https://komarev.com/ghpvc/?username=kschouhanpali-coder&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kschouhanpali-coder)
@@ -59,14 +58,25 @@ I believe **Prompt Engineering** is the bridge between raw LLM power and real-wo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kschouhanpali-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kschouhanpali-coder&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Using github-stats.vercel.app as reliable alternative -->
+<a href="https://github.com/kschouhanpali-coder">
+  <img height="180em" src="https://github-stats.vercel.app/api?username=kschouhanpali-coder&theme=dark&show_icons=true&hide_border=true&count_private=true" 
+  onerror="this.onerror=null;this.src='https://img.shields.io/badge/Stats-Visit%20GitHub%20Profile-58A6FF?style=for-the-badge&logo=github'"/>
+</a>
+
+<!-- Streak stats — highly reliable -->
+<a href="https://github.com/kschouhanpali-coder">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kschouhanpali-coder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kschouhanpali-coder&theme=tokyonight&hide_border=true)
+<!-- Top languages via linguist — alternative reliable host -->
+<a href="https://github.com/kschouhanpali-coder">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kschouhanpali-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
@@ -82,7 +92,7 @@ I believe **Prompt Engineering** is the bridge between raw LLM power and real-wo
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
 ```python
 class KriteshSinghChouhan:
