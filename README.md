@@ -108,25 +108,14 @@ I work at the intersection of language models and real-world systems — designi
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=kschouhanpali-coder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460&background=0d1117&ring=58A6FF&fire=bc8cff&currStreakLabel=58A6FF" />
+**Check out my live contribution graph, streak, and language stats directly on my profile —**
+**they update automatically and are always accurate.**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kschouhanpali-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kschouhanpali-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950)](https://github.com/kschouhanpali-coder)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kschouhanpali-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![View GitHub Profile](https://img.shields.io/badge/View_Full_Activity-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
 
 </div>
 
