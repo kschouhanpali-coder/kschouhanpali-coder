@@ -46,16 +46,6 @@ Currently a **B.Tech CSE (AI/ML) student**, based in Rajasthan, India — buildi
 
 ---
 
-## 🎓 Education
-
-| | |
-|:---|:---|
-| **Degree** | B.Tech, Computer Science & Engineering (AI/ML) |
-| **Location** | Rajasthan, India |
-| **Focus Areas** | Large Language Models, Applied Machine Learning, Full-Stack Development |
-
----
-
 ## 💡 Engineering Philosophy
 
 | # | Principle | What it means |
@@ -135,6 +125,45 @@ This loop applies whether I'm writing a single system prompt or architecting a m
 
 ---
 
+## ✨ Prompt Engineering in Action
+
+A small example of what "well-engineered" actually means in practice:
+
+**Before — vague, inconsistent output**
+```
+Summarize this article.
+```
+
+**After — structured, reliable output**
+```
+You are summarizing for a busy executive audience.
+
+Output format:
+- 3 bullet points, each under 20 words
+- 1 sentence on why this matters to the business
+- No filler phrases like "this article discusses"
+
+If the article lacks enough information for any section, say so explicitly
+rather than guessing.
+```
+
+The difference isn't wording — it's **removing every degree of freedom that doesn't need to exist.** That's the core of what I do.
+
+---
+
+## ❓ FAQ
+
+**What do you actually build?**
+AI-powered tools, RAG pipelines, and agent workflows — from the prompt layer down to the API and frontend that ships them.
+
+**Do you work with a specific model provider?**
+No — I choose based on the task. OpenAI, Anthropic, and Google models all show up in my work depending on what the job needs.
+
+**Are you open to freelance / collaboration?**
+Yes. If you have an interesting AI problem, reach out via LinkedIn or GitHub below.
+
+---
+
 ## 📈 GitHub Activity
 
 <div align="center">
@@ -172,6 +201,8 @@ This loop applies whether I'm writing a single system prompt or architecting a m
 <div align="center">
 
 **Have an interesting AI project? I'd love to collaborate.**
+
+Whether it's a quick technical question, a project idea, or a role where prompt engineering and AI development are core to the work — I read every message.
 
 <br/>
 
