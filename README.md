@@ -94,26 +94,6 @@ me.say_hi()
 
 ---
 
-## 📉 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kschouhanpali-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950)](https://github.com/kschouhanpali-coder)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kschouhanpali-coder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Currently Working On
 
 - 🔭 Building AI-powered tools with advanced prompt engineering
