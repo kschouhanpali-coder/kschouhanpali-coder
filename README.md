@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060b14,40:0d2137,70:0d1f3c,100:060b14&height=200&section=header&text=Kritesh%20Singh%20Chouhan&fontSize=38&fontColor=58A6FF&fontAlignY=50&animation=fadeIn&desc=Prompt%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descSize=15&descAlignY=68&descColor=8b949e&stroke=58A6FF&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,40:0d2137,70:0d1f3c,100:060b14&height=200&section=header&text=Kritesh%20Singh%20Chouhan&fontSize=38&fontColor=58A6FF&fontAlignY=45&animation=fadeIn&desc=Prompt%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descSize=15&descAlignY=65&descColor=8b949e&stroke=58A6FF&strokeWidth=1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Bridging+LLMs+and+real-world+utility;Designing+prompts+that+behave+like+systems;Building+AI+Agents+%26+RAG+Pipelines;Open+to+collaborate+%E2%80%94+let%27s+build+together" alt="Typing SVG" />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Bridging+LLMs+and+real-world+utility+%F0%9F%9A%80;A+well-engineered+prompt+%3E+1000+lines+of+code;Building+AI+Agents+%26+RAG+Pipelines;Open+to+Collaborate+%E2%80%94+Let%27s+build+together!" alt="Typing SVG" />
-
-<br/><br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&logo=statuspage&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20AI-58A6FF?style=flat-square&logo=openai&logoColor=white)
@@ -17,18 +15,18 @@
 
 </div>
 
----
+<br/>
 
 ## 🧠 About Me
 
 ```python
 class KriteshSinghChouhan:
     def __init__(self):
-        self.role       = "Prompt Engineer & AI Developer"
-        self.location   = "India 🇮🇳"
-        self.focus      = ["LLM Fine-tuning", "RAG Pipelines", "AI Agents"]
-        self.learning   = ["Multi-modal AI", "Vector Databases"]
-        self.fun_fact   = "Fluent in Python, broken English 😄"
+        self.role     = "Prompt Engineer & AI Developer"
+        self.location = "India 🇮🇳"
+        self.focus    = ["LLM Fine-tuning", "RAG Pipelines", "AI Agents"]
+        self.learning = ["Multi-modal AI", "Vector Databases"]
+        self.mission  = "Turning ambiguous ideas into reliable AI systems"
 
     def say_hi(self):
         print("Let's build the future together 🚀")
@@ -37,10 +35,11 @@ me = KriteshSinghChouhan()
 me.say_hi()
 ```
 
-> *"A well-engineered prompt is worth a thousand lines of fine-tuning.*
-> *The best AI applications aren't built with more compute — they're built with better thinking."*
+> A well-engineered prompt is worth a thousand lines of fine-tuning — the best AI applications aren't built with more compute, they're built with better thinking.
 
----
+I design and ship AI systems where the prompt *is* the architecture — from single-shot instructions to multi-agent pipelines with retrieval, memory, and evaluation baked in. My work sits at the intersection of **language model behavior**, **system design**, and **real-world reliability**.
+
+<br/>
 
 ## 💡 Engineering Philosophy
 
@@ -48,15 +47,15 @@ me.say_hi()
 |:---:|:---|:---|
 | 01 | **Clarity** | Precise instructions, zero ambiguity in every prompt |
 | 02 | **Iteration** | Rapid experimentation and continuous refinement |
-| 03 | **Context** | Providing the right mental model to the model |
+| 03 | **Context** | Giving the model the right mental model, not just data |
 | 04 | **Structure** | Systematic prompt architecture for consistent results |
-| 05 | **Evaluation** | Measure outputs, not just vibes |
+| 05 | **Evaluation** | Measuring outputs against benchmarks, not just vibes |
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-**🤖 AI & Prompt Engineering**
+**AI & Prompt Engineering**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
@@ -65,7 +64,7 @@ me.say_hi()
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00A98F?style=flat-square&logo=pinecone&logoColor=white)
 
-**💻 Development**
+**Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -73,14 +72,31 @@ me.say_hi()
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**🔧 Tools & Cloud**
+**Tools & Cloud**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+<br/>
+
+## 📌 Featured Projects
+
+<!--
+  Tip: pin your best 4-6 repos on your GitHub profile (Customize your pins)
+  instead of listing them here — pinned repo cards render automatically
+  and stay in sync with your actual repos. This section is optional and
+  best used for projects that AREN'T repos (deployed apps, papers, demos).
+-->
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **Project Name** | One-line description of what it does and the problem it solves | `Python` `LangChain` |
+| **Project Name** | One-line description of what it does and the problem it solves | `RAG` `Pinecone` |
+| **Project Name** | One-line description of what it does and the problem it solves | `React` `FastAPI` |
+
+<br/>
 
 ## 📈 GitHub Stats
 
@@ -92,19 +108,11 @@ me.say_hi()
 
 </div>
 
----
-
-## 📉 Contribution Graph
-
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kschouhanpali-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950)](https://github.com/kschouhanpali-coder)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -112,25 +120,23 @@ me.say_hi()
 
 </div>
 
----
+<br/>
 
-## 🚀 Currently Working On
+## 🚀 Currently
 
 - 🔭 Building AI-powered tools with advanced prompt engineering
-- 🌱 Exploring **RAG**, **AI agents**, and **multi-model pipelines**
+- 🌱 Exploring **RAG**, **AI agents**, and multi-model pipelines
 - 🧪 Designing evaluation frameworks for LLM outputs
 - 📝 Writing about prompt engineering best practices
-- 💬 Always open to discuss LLMs, prompting strategies & AI
+- 💬 Always open to discuss LLMs, prompting strategies & AI systems
 
----
+<br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 **Have an interesting AI project? I'd love to collaborate.**
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
@@ -139,6 +145,6 @@ me.say_hi()
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn" />
 
-*Built with passion · Powered by AI · Made in India 🇮🇳*
+<sub>Built with passion · Powered by AI · Made in India 🇮🇳</sub>
 
 </div>
