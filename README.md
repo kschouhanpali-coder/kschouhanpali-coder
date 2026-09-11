@@ -11,7 +11,7 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&logo=statuspage&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20AI-58A6FF?style=flat-square&logo=openai&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-ff9933?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritesh-singh-chouhan-5396b5328/)
 [![GitHub followers](https://img.shields.io/github/followers/kschouhanpali-coder?style=flat-square&color=bc8cff&logo=github&logoColor=white&label=Followers)](https://github.com/kschouhanpali-coder)
 [![Profile Views](https://komarev.com/ghpvc/?username=kschouhanpali-coder&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/kschouhanpali-coder)
 
@@ -42,6 +42,18 @@ me.say_hi()
 
 I work at the intersection of language models and real-world systems — designing prompts, pipelines, and agents that behave predictably in production, not just in a demo. Whether it's a single well-crafted instruction or a full multi-agent RAG system, I care about the same thing: **does it work reliably, every time?**
 
+Currently a **B.Tech CSE (AI/ML) student**, based in Rajasthan, India — building AI-powered applications, full-stack projects, and automation tools around modern GenAI workflows.
+
+---
+
+## 🎓 Education
+
+| | |
+|:---|:---|
+| **Degree** | B.Tech, Computer Science & Engineering (AI/ML) |
+| **Location** | Rajasthan, India |
+| **Focus Areas** | Large Language Models, Applied Machine Learning, Full-Stack Development |
+
 ---
 
 ## 💡 Engineering Philosophy
@@ -53,6 +65,21 @@ I work at the intersection of language models and real-world systems — designi
 | 03 | **Context** | Providing the right mental model to the model |
 | 04 | **Structure** | Systematic prompt architecture for consistent results |
 | 05 | **Evaluation** | Measure outputs, not just vibes |
+
+---
+
+## 🔄 How I Approach a Project
+
+```
+ 1. Understand    →  What's the real task, and what does "correct" look like?
+ 2. Design        →  Draft the prompt/pipeline architecture, not just a single prompt
+ 3. Test          →  Run against edge cases, not just the happy path
+ 4. Measure       →  Define metrics before shipping, not after something breaks
+ 5. Refine        →  Iterate based on data, not intuition
+ 6. Ship & Monitor →  Reliability doesn't end at deployment
+```
+
+This loop applies whether I'm writing a single system prompt or architecting a multi-agent RAG pipeline — the scale changes, the discipline doesn't.
 
 ---
 
@@ -148,7 +175,7 @@ I work at the intersection of language models and real-world systems — designi
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritesh-singh-chouhan-5396b5328/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
 
 <br/>
