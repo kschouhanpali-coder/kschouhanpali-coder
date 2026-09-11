@@ -1,19 +1,14 @@
 <div align="center">
 
-# 👋 Kritesh Singh Chouhan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,40:0d2137,70:0d1f3c,100:060b14&height=200&section=header&text=Kritesh%20Singh%20Chouhan&fontSize=38&fontColor=58A6FF&fontAlignY=45&animation=fadeIn&desc=Prompt%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descSize=15&descAlignY=65&descColor=8b949e&stroke=58A6FF&strokeWidth=1" />
 
-### Prompt Engineer · AI Developer · Builder
-
-*Bridging LLMs and real-world utility — designing prompts, pipelines, and agents that hold up in production.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Bridging+LLMs+and+real-world+utility;Designing+prompts+that+behave+like+systems;Building+AI+Agents+%26+RAG+Pipelines;Open+to+collaborate+%E2%80%94+let%27s+build+together" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge&logo=statuspage&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20AI-58A6FF?style=for-the-badge&logo=openai&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=flat-square&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20AI-58A6FF?style=flat-square&logo=openai&logoColor=white)
+![Location](https://img.shields.io/badge/Location-India-ff9933?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
 [![GitHub followers](https://img.shields.io/github/followers/kschouhanpali-coder?style=flat-square&color=bc8cff&logo=github&logoColor=white&label=Followers)](https://github.com/kschouhanpali-coder)
 [![Profile Views](https://komarev.com/ghpvc/?username=kschouhanpali-coder&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/kschouhanpali-coder)
@@ -22,18 +17,16 @@
 
 <br/>
 
----
-
 ## 🧠 About Me
 
 ```python
 class KriteshSinghChouhan:
     def __init__(self):
-        self.role       = "Prompt Engineer & AI Developer"
-        self.location   = "India 🇮🇳"
-        self.focus      = ["LLM Fine-tuning", "RAG Pipelines", "AI Agents"]
-        self.learning   = ["Multi-modal AI", "Vector Databases"]
-        self.fun_fact   = "Fluent in Python, broken English 😄"
+        self.role     = "Prompt Engineer & AI Developer"
+        self.location = "India 🇮🇳"
+        self.focus    = ["LLM Fine-tuning", "RAG Pipelines", "AI Agents"]
+        self.learning = ["Multi-modal AI", "Vector Databases"]
+        self.mission  = "Turning ambiguous ideas into reliable AI systems"
 
     def say_hi(self):
         print("Let's build the future together 🚀")
@@ -42,121 +35,84 @@ me = KriteshSinghChouhan()
 me.say_hi()
 ```
 
-> *"A well-engineered prompt is worth a thousand lines of fine-tuning.*
-> *The best AI applications aren't built with more compute — they're built with better thinking."*
+> A well-engineered prompt is worth a thousand lines of fine-tuning — the best AI applications aren't built with more compute, they're built with better thinking.
 
-I work at the intersection of language models and real-world systems — designing prompts, pipelines, and agents that behave predictably in production, not just in a demo. Whether it's a single well-crafted instruction or a full multi-agent RAG system, I care about the same thing: **does it work reliably, every time?**
+I design and ship AI systems where the prompt *is* the architecture — from single-shot instructions to multi-agent pipelines with retrieval, memory, and evaluation baked in. My work sits at the intersection of **language model behavior**, **system design**, and **real-world reliability**.
 
 <br/>
-
----
 
 ## 💡 Engineering Philosophy
 
-<div align="center">
-
 | # | Principle | What it means |
 |:---:|:---|:---|
-| 🎯 | **Clarity** | Precise instructions, zero ambiguity in every prompt |
-| 🔁 | **Iteration** | Rapid experimentation and continuous refinement |
-| 🧩 | **Context** | Providing the right mental model to the model |
-| 🏗️ | **Structure** | Systematic prompt architecture for consistent results |
-| 📊 | **Evaluation** | Measure outputs, not just vibes |
-
-</div>
+| 01 | **Clarity** | Precise instructions, zero ambiguity in every prompt |
+| 02 | **Iteration** | Rapid experimentation and continuous refinement |
+| 03 | **Context** | Giving the model the right mental model, not just data |
+| 04 | **Structure** | Systematic prompt architecture for consistent results |
+| 05 | **Evaluation** | Measuring outputs against benchmarks, not just vibes |
 
 <br/>
-
----
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**AI & Prompt Engineering**
 
-**🤖 AI & Prompt Engineering**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-00A98F?style=flat-square&logo=pinecone&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-00A98F?style=for-the-badge&logo=pinecone&logoColor=white)
+**Development**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**💻 Development**
+**Tools & Cloud**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-<br/>
-
-**🔧 Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
----
+## 📌 Featured Projects
 
-## 🎓 Experience & Background
+<!--
+  Tip: pin your best 4-6 repos on your GitHub profile (Customize your pins)
+  instead of listing them here — pinned repo cards render automatically
+  and stay in sync with your actual repos. This section is optional and
+  best used for projects that AREN'T repos (deployed apps, papers, demos).
+-->
 
-- 🧪 Hands-on experience designing prompt architectures for production LLM applications
-- 🔗 Building retrieval-augmented generation (RAG) systems with vector databases like Pinecone
-- 🤝 Working across multiple model providers — OpenAI, Anthropic, Google — choosing the right model for the right task
-- 📐 Developing structured evaluation frameworks to benchmark and compare prompt/model performance
-- 🧵 Comfortable across the stack — from prompt design down to the FastAPI/React layer that ships it
-
-<br/>
-
----
-
-## 📌 What You'll Find in My Repositories
-
-Rather than list placeholder projects here, my best work is pinned directly on this profile — pinned repos stay in sync with real activity, stars, and commit history, which a static table can't do.
-
-**On my pinned repos, you'll typically see work involving:**
-
-- 🔗 RAG pipelines connecting LLMs to structured and unstructured knowledge sources
-- 🤖 Agent workflows that chain reasoning, tool use, and evaluation steps
-- 📊 Prompt evaluation harnesses for comparing model/prompt performance
-- 🧰 Small utilities and scripts that make AI development workflows faster
-
-<div align="center">
-
-[![Pinned repos](https://img.shields.io/badge/View_Pinned_Repos-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder?tab=repositories)
-
-</div>
-
-<sub>💡 To set this up: go to your profile → "Customize your pins" → select up to 6 repos. They'll display automatically below this README.</sub>
+| Project | Description | Stack |
+|:---|:---|:---|
+| **Project Name** | One-line description of what it does and the problem it solves | `Python` `LangChain` |
+| **Project Name** | One-line description of what it does and the problem it solves | `RAG` `Pinecone` |
+| **Project Name** | One-line description of what it does and the problem it solves | `React` `FastAPI` |
 
 <br/>
-
----
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://streak-stats.demolab.com?user=kschouhanpali-coder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460&background=0d1117&ring=58A6FF&fire=bc8cff&currStreakLabel=58A6FF" />
+<img height="170" src="https://streak-stats.demolab.com?user=kschouhanpali-coder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=460&background=0d1117&ring=58A6FF&fire=bc8cff&currStreakLabel=58A6FF" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kschouhanpali-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kschouhanpali-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kschouhanpali-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
 
 </div>
 
-<br/>
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kschouhanpali-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950)](https://github.com/kschouhanpali-coder)
+
+</div>
 
 <div align="center">
 
@@ -166,30 +122,15 @@ Rather than list placeholder projects here, my best work is pinned directly on t
 
 <br/>
 
----
-
-## 🚀 Currently Working On
+## 🚀 Currently
 
 - 🔭 Building AI-powered tools with advanced prompt engineering
-- 🌱 Exploring **RAG**, **AI agents**, and **multi-model pipelines**
+- 🌱 Exploring **RAG**, **AI agents**, and multi-model pipelines
 - 🧪 Designing evaluation frameworks for LLM outputs
 - 📝 Writing about prompt engineering best practices
-- 💬 Always open to discuss LLMs, prompting strategies & AI
+- 💬 Always open to discuss LLMs, prompting strategies & AI systems
 
 <br/>
-
----
-
-## 🎯 Goals for This Year
-
-- [ ] Ship an open-source RAG evaluation toolkit
-- [ ] Publish a deep-dive series on prompt architecture patterns
-- [ ] Contribute to at least one major LLM tooling library
-- [ ] Grow a small community around applied prompt engineering
-
-<br/>
-
----
 
 ## 📫 Let's Connect
 
@@ -197,13 +138,13 @@ Rather than list placeholder projects here, my best work is pinned directly on t
 
 **Have an interesting AI project? I'd love to collaborate.**
 
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
 
-<br/><br/>
+<br/>
 
-*Built with passion · Powered by AI · Made in India 🇮🇳*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=100&section=footer&animation=fadeIn" />
+
+<sub>Built with passion · Powered by AI · Made in India 🇮🇳</sub>
 
 </div>
