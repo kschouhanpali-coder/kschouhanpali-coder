@@ -1,18 +1,18 @@
 <div align="center">
 
-# 👋 Kritesh Singh Chouhan
-
-### Prompt Engineer · AI Developer · Builder
-
-*Bridging LLMs and real-world utility — designing prompts, pipelines, and agents that hold up in production.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,70:2c5364,100:0f2027&height=220&section=header&text=Kritesh%20Singh%20Chouhan&fontSize=40&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Prompt%20Engineer%20%7C%20AI%20Developer%20%7C%20Builder&descSize=16&descAlignY=58&descColor=8b949e&stroke=58A6FF&strokeWidth=1" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Bridging+LLMs+and+real-world+utility+%F0%9F%9A%80;A+well-engineered+prompt+%3E+1000+lines+of+code;Building+AI+Agents+%26+RAG+Pipelines;Open+to+Collaborate+%E2%80%94+Let%27s+build+together!" alt="Typing SVG" />
+
+<br/><br/>
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Prompt%20Engineering%20%26%20AI-58A6FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kschouhanpali-coder)
 [![GitHub followers](https://img.shields.io/github/followers/kschouhanpali-coder?style=flat-square&color=bc8cff&logo=github&logoColor=white&label=Followers)](https://github.com/kschouhanpali-coder)
@@ -107,6 +107,55 @@ I work at the intersection of language models and real-world systems — designi
 
 ---
 
+## 📌 Featured Projects
+
+<!-- Replace these with your real repos — 3 to 5 is plenty. -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`Python` `LangChain` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`FastAPI` `Vector DB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`Agents` `Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`React` `API Integration`
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Tip: also pin these repos via GitHub's "Customize your pins" — pinned cards stay live with real stars and activity.</sub>
+
+<br/>
+
+---
+
 ## 🎓 Experience & Background
 
 - 🧪 Hands-on experience designing prompt architectures for production LLM applications
@@ -114,29 +163,6 @@ I work at the intersection of language models and real-world systems — designi
 - 🤝 Working across multiple model providers — OpenAI, Anthropic, Google — choosing the right model for the right task
 - 📐 Developing structured evaluation frameworks to benchmark and compare prompt/model performance
 - 🧵 Comfortable across the stack — from prompt design down to the FastAPI/React layer that ships it
-
-<br/>
-
----
-
-## 📌 What You'll Find in My Repositories
-
-Rather than list placeholder projects here, my best work is pinned directly on this profile — pinned repos stay in sync with real activity, stars, and commit history, which a static table can't do.
-
-**On my pinned repos, you'll typically see work involving:**
-
-- 🔗 RAG pipelines connecting LLMs to structured and unstructured knowledge sources
-- 🤖 Agent workflows that chain reasoning, tool use, and evaluation steps
-- 📊 Prompt evaluation harnesses for comparing model/prompt performance
-- 🧰 Small utilities and scripts that make AI development workflows faster
-
-<div align="center">
-
-[![Pinned repos](https://img.shields.io/badge/View_Pinned_Repos-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder?tab=repositories)
-
-</div>
-
-<sub>💡 To set this up: go to your profile → "Customize your pins" → select up to 6 repos. They'll display automatically below this README.</sub>
 
 <br/>
 
@@ -203,6 +229,8 @@ Rather than list placeholder projects here, my best work is pinned directly on t
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kschouhanpali-coder)
 
 <br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:0f2027&height=110&section=footer&animation=fadeIn" />
 
 *Built with passion · Powered by AI · Made in India 🇮🇳*
 
