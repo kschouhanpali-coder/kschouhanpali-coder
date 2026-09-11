@@ -22,7 +22,7 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
 ## 🧠 About Me
 
@@ -45,9 +45,11 @@ me.say_hi()
 > *"A well-engineered prompt is worth a thousand lines of fine-tuning.*
 > *The best AI applications aren't built with more compute — they're built with better thinking."*
 
+I work at the intersection of language models and real-world systems — designing prompts, pipelines, and agents that behave predictably in production, not just in a demo. Whether it's a single well-crafted instruction or a full multi-agent RAG system, I care about the same thing: **does it work reliably, every time?**
+
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
 ## 💡 Engineering Philosophy
 
@@ -65,7 +67,7 @@ me.say_hi()
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +75,7 @@ me.say_hi()
 
 **🤖 AI & Prompt Engineering**
 
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" />&nbsp;&nbsp;
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -103,7 +105,68 @@ me.say_hi()
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
+
+## 📌 Featured Projects
+
+<!-- Replace these with your real repos — 3 to 5 is plenty. -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`Python` `LangChain` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`FastAPI` `Vector DB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`Agents` `Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Project Name
+One line on the real problem this solves.
+<br/>
+`React` `API Integration`
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Tip: also pin these repos via GitHub's "Customize your pins" — pinned cards stay live with real stars and activity.</sub>
+
+<br/>
+
+---
+
+## 🎓 Experience & Background
+
+- 🧪 Hands-on experience designing prompt architectures for production LLM applications
+- 🔗 Building retrieval-augmented generation (RAG) systems with vector databases like Pinecone
+- 🤝 Working across multiple model providers — OpenAI, Anthropic, Google — choosing the right model for the right task
+- 📐 Developing structured evaluation frameworks to benchmark and compare prompt/model performance
+- 🧵 Comfortable across the stack — from prompt design down to the FastAPI/React layer that ships it
+
+<br/>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -129,7 +192,7 @@ me.say_hi()
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
 
 ## 🚀 Currently Working On
 
@@ -141,7 +204,18 @@ me.say_hi()
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+---
+
+## 🎯 Goals for This Year
+
+- [ ] Ship an open-source RAG evaluation toolkit
+- [ ] Publish a deep-dive series on prompt architecture patterns
+- [ ] Contribute to at least one major LLM tooling library
+- [ ] Grow a small community around applied prompt engineering
+
+<br/>
+
+---
 
 ## 📫 Let's Connect
 
